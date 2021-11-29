@@ -1,0 +1,43 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "category": "web",
+        "name": "HTML",
+        "seller": "3M",
+        "wholePrice": "68",
+        "priceFraction": "36",
+        "stock": 36,
+        "star": 3,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_A0HE4LwmoDHHZDK6JyoeGMydojnDjaG_M586fu4KDhILDeyxPPK75uQ7N-QiN-cEr48&usqp=CAU",
+        "price": 200,
+        "shipping": 7.99
+    },
+    {
+        "key": "B0702RLL8IYK",
+        "category": "web",
+        "name": "CSS",
+        "seller": "3M",
+        "wholePrice": "68",
+        "priceFraction": "36",
+        "stock": 36,
+        "star": 3,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2dfsPeW1sL0lDikNWEnlRvo1-k-KtEVp39aUTc9hzzDlbgj-ZhxRVXkK2p1tGCevIkY&usqp=CAU",
+        "price": 100,
+        "shipping": 7.99
+    },
+    {
+        "key": "B07D02RL8IYK",
+        "category": "web",
+        "name": "JAVASCRIPT",
+        "seller": "3M",
+        "wholePrice": "68",
+        "priceFraction": "36",
+        "stock": 36,
+        "star": 3,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+        "price": 300,
+        "shipping": 7.99
+    }
+   
+   
+]

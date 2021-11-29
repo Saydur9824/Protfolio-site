@@ -1,0 +1,16 @@
+.about-part{
+    background-color: rgb(19, 16, 16);
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+.about-img{
+    width: 70%;
+    /* height: 70%; */
+}
+.about-adderss{
+    text-align: start;
+    margin-top: 10%;
+}
+h1,h5{
+    color: rgb(240, 234, 224);
+}
