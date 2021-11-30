@@ -3,6 +3,8 @@ import About from '../About/About';
 import Header from '../Header/Header';
 import Home from '../Home/Home';
 import Projects from '../Projects/Projects';
+import ContractForm from '../ContractForm/ContractForm';
+
 
 const Homes = () => {
     return (
@@ -11,6 +13,7 @@ const Homes = () => {
             <Home></Home>
             <Projects></Projects>
             <About></About>
+            <ContractForm></ContractForm>
         </div>
     );
 };

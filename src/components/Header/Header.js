@@ -25,7 +25,6 @@ const Header = () => {
                     <Nav.Link to="/contract">Contract</Nav.Link>
                     <Nav.Link as={Link} to="/blog">Blogs</Nav.Link>
                     </Nav>
-                   
                 </Offcanvas.Body>
                 </Navbar.Offcanvas>
             </Container>
