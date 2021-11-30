@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import Homes from './components/Homes/Homes';
 import Resume from './components/Resume/Resume';
+import Blog from './components/Blog/Blog';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route exact path="/" element = {<Homes/>}/>
           <Route path="/homes" element = {<Homes/>}/>
           <Route path="/resume" element = {<Resume/>}/>
+          <Route path="/blog" element = {<Blog/>}/>
          
         </Routes>
       </BrowserRouter>
